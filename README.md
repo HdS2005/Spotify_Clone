@@ -1,11 +1,6 @@
 #Overview:
--This project is a web-based clone of the popular music streaming application, Spotify
-
-#Features:
-- Play and control music playback
-- Responsive design for various screen sizes
-
-Spotify has a lot of ads so made mine  ;) 
+-This project is a web-based clone of the popular music streaming application, Spotify.
+Spotify has a lot of ads so made mine ;) 
 
 The Overall Design and Theme Could Be Seen Through The ScreenShot Below:
 
