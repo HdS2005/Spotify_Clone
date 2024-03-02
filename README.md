@@ -1,4 +1,4 @@
-Spotify has a lot of ads so made mine ;) 
+Spotify has a lot of ads so created mine ;) 
 
 The Overall Design and Theme Could Be Seen From The ScreenShot Below:
 
